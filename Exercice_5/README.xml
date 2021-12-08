@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exercice_5</name>
+    </assembly>
+    <members>
+        <member name="T:Exercice_5.Livre">
+            <summary>
+            Cette classe est utilisé pour un exemple de documentation.
+            <code>
+            Livre livre = new Livre();
+            livre.ArracherDesPages(4);
+            </code>
+            </summary>
+        </member>
+        <member name="M:Exercice_5.Livre.ToString">
+            <summary>
+            Cette méthode écrase le .ToString() de base par une string de Titre et Nom_Auteur du livre.
+            </summary>
+            <returns> Retourne le titre du livre et nom de l'auteur.</returns>
+        </member>
+        <member name="M:Exercice_5.Livre.ArracherDesPages(System.Int32)">
+            <summary>
+            Cette méthode permet d'arracher des pages à un livre.
+            </summary>
+            <param name="nombrePage">Définit le nombre de page arracher du livre.</param>
+        </member>
+    </members>
+</doc>

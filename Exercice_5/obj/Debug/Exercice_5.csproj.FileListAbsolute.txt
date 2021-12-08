@@ -1,0 +1,7 @@
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\bin\Debug\Exercice_5.dll
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\bin\Debug\Exercice_5.pdb
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\obj\Debug\Exercice_5.csprojAssemblyReference.cache
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\obj\Debug\Exercice_5.csproj.CoreCompileInputs.cache
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\obj\Debug\Exercice_5.dll
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\obj\Debug\Exercice_5.pdb
+C:\Users\1532408\Desktop\Exercice_5\Exercice_5\bin\Debug\README.xml
